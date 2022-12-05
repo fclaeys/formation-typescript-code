@@ -1,0 +1,11 @@
+{
+  "name": "hello-typescript",
+  "license": "NOLICENSE",
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  }
+}
